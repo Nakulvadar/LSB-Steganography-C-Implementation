@@ -103,10 +103,4 @@ This project demonstrates **bitwise data embedding and extraction**, ensuring ac
 
 ---
 
-## 🪪 License
-This project is open-source and available under the **MIT License**.  
-Feel free to fork, modify, and enhance it. 🚀
-
----
-
 ### ⭐ If you find this project useful, consider giving it a star on GitHub!
