@@ -99,7 +99,7 @@ This project demonstrates **bitwise data embedding and extraction**, ensuring ac
 ## 👨‍💻 Author
 **Nakul Anil Vadar**  
 *Electronics and Telecommunication Engineer*  
-📫 [Your GitHub or LinkedIn profile link]
+📫 [https://www.linkedin.com/in/nakul-vadar-368780243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 ---
 
